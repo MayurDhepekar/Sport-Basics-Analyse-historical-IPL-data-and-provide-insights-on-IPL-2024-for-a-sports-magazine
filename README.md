@@ -1,6 +1,6 @@
 # Sports Basics IPL 2024 Analysis
 
-- [Live Dashboard Link](https://app.fabric.microsoft.com/view?r=eyJrIjoiN2QwNTZjZDAtMDIwZS00ZDgzLTkwMjAtMTI3MWQzNjNkM2RhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) - 
+[Live Dashboard Link](https://app.fabric.microsoft.com/view?r=eyJrIjoiN2QwNTZjZDAtMDIwZS00ZDgzLTkwMjAtMTI3MWQzNjNkM2RhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) - 
 
 **Project Description:**
 
